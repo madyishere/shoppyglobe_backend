@@ -26,7 +26,6 @@ The backend for the ShoppyGlobe application was created using Node.js, Express, 
   - **Products**: Each product had fields like `name`, `price`, `description`, and `stock quantity`.
   - **Cart**: Stored items added to the cart, including `product IDs` and `quantities`.
 - CRUD operations were implemented on MongoDB collections for products and cart items.
-- Screenshots from MongoDB Database were included.
 
 ### 3. API Error Handling and Validation
 - Error handling was implemented for all API routes.
