@@ -9,7 +9,7 @@ The backend for the ShoppyGlobe application was created using Node.js, Express, 
 
 ---
 
-## Requirements
+## characteristics 
 
 ### 1. Node.js and Express API Setup
 - A Node.js application was set up using Express.
